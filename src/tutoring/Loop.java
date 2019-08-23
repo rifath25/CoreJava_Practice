@@ -6,10 +6,16 @@ public class Loop {
         // while loop
 
         int w= 0;
-        while (w<5) {
+        while (w<2) {
             System.out.println(w);
             w++;
 
+        }
+
+        int n= 0;
+        while (n <1){
+            System.out.println("Today is a nice weather");
+            n++;
         }
 
         System.out.println("------------------------------------");
@@ -21,6 +27,12 @@ public class Loop {
             System.out.println(dw);
             dw++;
         }while (dw<3);
+
+        double dn= 0;
+        do{
+            System.out.println("Rose is red");
+            dn++;
+        }while (dn<1);
 
 
 
