@@ -5,11 +5,12 @@ public abstract class Vehicle {
     for each car the feature's type can be different. But one feature "navigation" has been implemented on the list
     that must have to be in all model vehicles. make sure to provide make, model, and year of the car that you worked on.
   */
-    public abstract void brandName (String brandName);
 
-    public abstract void modelName (String modelName);
+    public String brandName;
 
-    public abstract void year(int year);
+    public String modelName;
+
+    public int year;
 
     public abstract void engine (String engine);
 
@@ -18,8 +19,16 @@ public abstract class Vehicle {
     public abstract void soundSystem (String soundSystem);
 
     public String navigation (String navigation){
+
+        if(navigation.equalsIgnoreCase( "true") ){
+            System.out.println("TouchScreen Navigation System");
+        }else {
+            System.out.println("Turn-by-Turn Navigation");
+        }
         return navigation;
     }
 
-
 }
+
+
+
