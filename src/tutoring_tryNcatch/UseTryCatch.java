@@ -38,6 +38,17 @@ public class UseTryCatch {
         }finally {
             System.out.println("YOU MADE IT !");
         }
+        try {
+            UseTryCatch ex= new UseTryCatch();
+            ex.nullex(null);
+        }catch (NullPointerException exception){
+            System.out.println("Wrong Value");
+        }finally {
+            System.out.println("DONE");
+        }
 
+    }
+    public void nullex(String s){     //null pointer exception is a runtime exception
+        System.out.println(s.toLowerCase());
     }
 }
