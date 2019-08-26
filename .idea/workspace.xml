@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_Abstraction/Vehicle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_Abstraction/Vehicle2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/mentorship_session/Mentoring1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/mentorship_session/Mentoring1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Abstraction/Chevrolet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Abstraction/Mastung.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Abstraction/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_Abstraction/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_Abstraction/Chevrolet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_Abstraction/Mastung.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_Abstraction/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_Abstraction/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/SwitchCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +39,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwitchCase">
-    <configuration name="Mentoring1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mentorship_session.Mentoring1" />
+  <component name="RunManager" selected="Application.UseTryCatch">
+    <configuration name="ExceptionHandlingUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_tryNcatch.ExceptionHandlingUsingThrows" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mentorship_session.*" />
+          <option name="PATTERN" value="tutoring_tryNcatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mentoring1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mentoring_session.Mentoring1" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Keywords.Loop" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mentoring_session.*" />
+          <option name="PATTERN" value="Keywords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring.Operators" />
+    <configuration name="ReaderFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Keywords.ReaderFile" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring.*" />
+          <option name="PATTERN" value="Keywords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,19 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+    <configuration name="UseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.UseArray" />
       <module name="July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Abstraction.TestVehicle" />
+    <configuration name="UseTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_tryNcatch.UseTryCatch" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Abstraction.*" />
+          <option name="PATTERN" value="tutoring_tryNcatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.TestVehicle" />
-        <item itemvalue="Application.Mentoring1 (1)" />
-        <item itemvalue="Application.Mentoring1" />
-        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.UseTryCatch" />
+        <item itemvalue="Application.ExceptionHandlingUsingThrows" />
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.UseArray" />
+        <item itemvalue="Application.ReaderFile" />
       </list>
     </recent_temporary>
   </component>
