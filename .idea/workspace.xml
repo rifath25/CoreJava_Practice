@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_tryNcatch/ExceptionHandlingUsingThrows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_tryNcatch/ExceptionHandlingUsingThrows.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_tryNcatch/UseTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_tryNcatch/UseTryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_tryNcatch/ExceptionHandlingUsingThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_tryNcatch/ExceptionHandlingUsingThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_tryNcatch/UseTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_tryNcatch/UseTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_DataReader/practiceFileReader" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_DataReader/practiceFileReader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_DataReader/UseFilenBufferedReaderUsingThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFilenBufferedReaderUsingThrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_DataReader/practiceFileReader" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_DataReader/practiceFileReader" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -47,13 +47,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseFilenBufferedReaderUsingTryCatch">
-    <configuration name="ExceptionHandlingUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_tryNcatch.ExceptionHandlingUsingThrows" />
+  <component name="RunManager" selected="Application.UseFileReaderUsingScanner">
+    <configuration name="GetFileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.GetFileInfo" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_tryNcatch.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseFileReaderUsingScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileReaderUsingScanner" />
+      <module name="July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseFileWriterUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.UseFileWriterUsingThrows" />
+      <module name="July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_DataWriter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseFileWriterUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.UseFileWriterUsingTryCatch" />
+      <module name="July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_DataWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,52 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFilenBufferedReaderUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFilenBufferedReaderUsingTryCatch" />
-      <module name="July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Scanner.UseScanner" />
-      <module name="July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_Scanner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_tryNcatch.UseTryCatch" />
-      <module name="July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_tryNcatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UseFilenBufferedReaderUsingTryCatch" />
+        <item itemvalue="Application.UseFileReaderUsingScanner" />
+        <item itemvalue="Application.GetFileInfoUsingThrows" />
         <item itemvalue="Application.UseFilenBufferedReaderUsingThrows" />
-        <item itemvalue="Application.UseScanner" />
-        <item itemvalue="Application.UseTryCatch" />
-        <item itemvalue="Application.ExceptionHandlingUsingThrows" />
+        <item itemvalue="Application.UseFileWriterUsingTryCatch" />
+        <item itemvalue="Application.UseFileWriterUsingThrows" />
       </list>
     </recent_temporary>
   </component>
