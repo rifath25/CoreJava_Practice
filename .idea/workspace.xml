@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Super/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_Super/Laptop.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseNestedLoop">
-    <configuration name="TestComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Super.TestComputer" />
+  <component name="RunManager" selected="Application.ArrayListHW">
+    <configuration name="ArrayListHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_ArrayList.ArrayListHW" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Super.*" />
+          <option name="PATTERN" value="tutoring_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Enum.TestState" />
+    <configuration name="TestComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Super.TestComputer" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Enum.*" />
+          <option name="PATTERN" value="tutoring_Super.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListHW" />
         <item itemvalue="Application.UseNestedLoop" />
         <item itemvalue="Application.TestComputer" />
         <item itemvalue="Application.UseArrayList" />
         <item itemvalue="Application.TestVehicle" />
-        <item itemvalue="Application.TestState" />
       </list>
     </recent_temporary>
   </component>
