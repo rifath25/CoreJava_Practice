@@ -44,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListHW">
-    <configuration name="ArrayListHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_ArrayList.ArrayListHW" />
+  <component name="RunManager" selected="Application.UseMap">
+    <configuration name="UseIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Iterator.UseIterator" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_ArrayList.*" />
+          <option name="PATTERN" value="tutoring_Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Super.TestComputer" />
+    <configuration name="UseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_LinkedList.UseLinkedList" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Super.*" />
+          <option name="PATTERN" value="tutoring_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Enum.TestVehicle" />
+    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Map.UseMap" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Enum.*" />
+          <option name="PATTERN" value="tutoring_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_ArrayList.UseArrayList" />
+    <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Queue.UseQueue" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_ArrayList.*" />
+          <option name="PATTERN" value="tutoring_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring.UseNestedLoop" />
+    <configuration name="UseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Stack.UseStack" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring.*" />
+          <option name="PATTERN" value="tutoring_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListHW" />
-        <item itemvalue="Application.UseNestedLoop" />
-        <item itemvalue="Application.TestComputer" />
-        <item itemvalue="Application.UseArrayList" />
-        <item itemvalue="Application.TestVehicle" />
+        <item itemvalue="Application.UseMap" />
+        <item itemvalue="Application.UseQueue" />
+        <item itemvalue="Application.UseStack" />
+        <item itemvalue="Application.UseLinkedList" />
+        <item itemvalue="Application.UseIterator" />
       </list>
     </recent_temporary>
   </component>
