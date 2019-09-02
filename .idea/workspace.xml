@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_Map/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_Map/UseMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/July2019.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +27,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.17.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19293\develop\project1\July2019\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\19293\develop\project1\July2019\src\tutoring_DataReader" />
     </key>
@@ -45,13 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseSwap">
-    <configuration name="UseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_LinkedList.UseLinkedList" />
+  <component name="RunManager" selected="Application.RunMovieShell">
+    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_LinkedList.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Map.UseMap" />
+    <configuration name="Movie_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_2" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Map.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Queue.UseQueue" />
+    <configuration name="RunMovieCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieCollection" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Queue.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Stack.UseStack" />
+    <configuration name="RunMovieShell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieShell" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Stack.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunMovieShell" />
+        <item itemvalue="Application.RunMovieCollection" />
+        <item itemvalue="Application.Movie_2" />
+        <item itemvalue="Application.Movie" />
         <item itemvalue="Application.UseSwap" />
-        <item itemvalue="Application.UseMap" />
-        <item itemvalue="Application.UseQueue" />
-        <item itemvalue="Application.UseStack" />
-        <item itemvalue="Application.UseLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +166,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/July2019$Movie.ic" NAME="Movie Coverage Results" MODIFIED="1567444835752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tutoring_JDBC.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/July2019$TestPhone.ic" NAME="TestPhone Coverage Results" MODIFIED="1566357870370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>tutoring.*</FILTER>
     </SUITE>
