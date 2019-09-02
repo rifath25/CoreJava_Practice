@@ -13,9 +13,7 @@ public class UseMap {    //it is a key value pair data structure
         earth.put("Russia", "Moscow");
         System.out.println(earth.get("Japan"));
 
-
-        
-       for (Map.Entry<String,String>entry: earth.entrySet()){
+        for (Map.Entry<String,String>entry: earth.entrySet()){
            System.out.println(entry.getKey() + " " + entry.getValue());
 
         }
