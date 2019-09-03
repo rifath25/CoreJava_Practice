@@ -1,3 +1,5 @@
+package tutoring_SwitchCase;
+
 public class SwitchCase {
     public static void main(String[] args) {
         int x=6;

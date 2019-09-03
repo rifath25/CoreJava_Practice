@@ -4,6 +4,8 @@
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/July2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_SwitchCase/SwitchCase.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +29,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.17.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/testng-6.8.5.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -52,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunMovieShell">
-    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie" />
+  <component name="RunManager" selected="Application.PracticeArrayList">
+    <configuration name="FileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.FileInfo" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_2" />
+    <configuration name="ListOfMovies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.ListOfMovies" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_DataWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieCollection" />
+    <configuration name="PracticeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_ArrayList.PracticeArrayList" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieShell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieShell" />
+    <configuration name="PracticeScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Scanner.PracticeScanner" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_Scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_sorting.UseSwap" />
+    <configuration name="UseFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileReader" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_sorting.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunMovieShell" />
-        <item itemvalue="Application.RunMovieCollection" />
-        <item itemvalue="Application.Movie_2" />
-        <item itemvalue="Application.Movie" />
-        <item itemvalue="Application.UseSwap" />
+        <item itemvalue="Application.PracticeArrayList" />
+        <item itemvalue="Application.PracticeScanner" />
+        <item itemvalue="Application.FileInfo" />
+        <item itemvalue="Application.ListOfMovies" />
+        <item itemvalue="Application.UseFileReader" />
       </list>
     </recent_temporary>
   </component>
