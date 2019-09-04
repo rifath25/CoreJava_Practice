@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/July2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/SwitchCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_SwitchCase/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieCollection.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PracticeArrayList">
-    <configuration name="FileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.FileInfo" />
+  <component name="RunManager" selected="Application.TestEmployee">
+    <configuration name="EmployeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arraylist_Scanario.EmployeeApp" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="PATTERN" value="Arraylist_Scanario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfMovies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.ListOfMovies" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_linkedlist.LinkedList" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataWriter.*" />
+          <option name="PATTERN" value="class_linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileReader" />
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_SingletonClass.TestEmployee" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="PATTERN" value="tutoring_SingletonClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEmployee" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.EmployeeApp" />
         <item itemvalue="Application.PracticeArrayList" />
         <item itemvalue="Application.PracticeScanner" />
-        <item itemvalue="Application.FileInfo" />
-        <item itemvalue="Application.ListOfMovies" />
-        <item itemvalue="Application.UseFileReader" />
       </list>
     </recent_temporary>
   </component>

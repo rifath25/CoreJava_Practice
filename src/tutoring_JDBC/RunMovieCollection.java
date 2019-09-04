@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 public class RunMovieCollection {
     public static void main(String[] args) throws SQLException {
+
         String url= "jdbc:mysql://localhost:3306/netflix?serverTimezone=UTC";
         String userName="root";
         String password= "rinika1527";
