@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieCollection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedClass/TestOuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedClass/TestOuterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Queue/UseQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_Queue/UseQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_SingletonClass/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_SingletonClass/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Stack/UseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_Stack/UseStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_NestedClass/TestOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_NestedClass/TestOuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_Queue/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_Queue/UseQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_Stack/UseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_Stack/UseStack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestEmployee">
-    <configuration name="EmployeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arraylist_Scanario.EmployeeApp" />
+  <component name="RunManager" selected="Application.RunMovieNames">
+    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arraylist_Scanario.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_linkedlist.LinkedList" />
+    <configuration name="Movie_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_3" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_linkedlist.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_ArrayList.PracticeArrayList" />
+    <configuration name="Movie_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_4" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_ArrayList.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_Scanner.PracticeScanner" />
+    <configuration name="RunMovieList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieList" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_Scanner.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_SingletonClass.TestEmployee" />
+    <configuration name="RunMovieNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieNames" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_SingletonClass.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestEmployee" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.EmployeeApp" />
-        <item itemvalue="Application.PracticeArrayList" />
-        <item itemvalue="Application.PracticeScanner" />
+        <item itemvalue="Application.RunMovieNames" />
+        <item itemvalue="Application.RunMovieList" />
+        <item itemvalue="Application.Movie_4" />
+        <item itemvalue="Application.Movie_3" />
+        <item itemvalue="Application.Movie" />
       </list>
     </recent_temporary>
   </component>
