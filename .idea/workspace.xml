@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedClass/TestOuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedClass/TestOuterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Queue/UseQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_Queue/UseQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_SingletonClass/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_SingletonClass/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_Stack/UseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_Stack/UseStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_NestedClass/TestOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_NestedClass/TestOuterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_Queue/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_Queue/UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_Stack/UseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_Stack/UseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring/UseNestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_SelectionSorting/UseSelectionSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring/UseNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_NestedLoop/UseNestedLoop.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunMovieNames">
-    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie" />
+  <component name="RunManager" selected="Application.Practice_NestedLoop">
+    <configuration name="Practice_NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_NestedLoop.Practice_NestedLoop" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_NestedLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_3" />
+    <configuration name="TestRemoveJunk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_RemoveJunk.TestRemoveJunk" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_RemoveJunk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_4" />
+    <configuration name="TestReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_ReverseInteger.TestReverseInteger" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_ReverseInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieList" />
+    <configuration name="UseNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_NestedLoop.UseNestedLoop" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_NestedLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieNames" />
+    <configuration name="UseReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_ReverseString.UseReverseString" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
+          <option name="PATTERN" value="tutoring_ReverseString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunMovieNames" />
-        <item itemvalue="Application.RunMovieList" />
-        <item itemvalue="Application.Movie_4" />
-        <item itemvalue="Application.Movie_3" />
-        <item itemvalue="Application.Movie" />
+        <item itemvalue="Application.Practice_NestedLoop" />
+        <item itemvalue="Application.TestReverseInteger" />
+        <item itemvalue="Application.UseReverseString" />
+        <item itemvalue="Application.TestRemoveJunk" />
+        <item itemvalue="Application.UseNestedLoop" />
       </list>
     </recent_temporary>
   </component>
