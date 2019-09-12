@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_NestedLoop/DiamondShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_Anagram/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +53,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiamondShape">
+  <component name="RunManager" selected="Application.Anagram">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_Anagram.Anagram" />
+      <module name="July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_Anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiamondShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_NestedLoop.DiamondShape" />
       <module name="July2019" />
@@ -93,19 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieNames" />
-      <module name="July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_JDBC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RunMovieShell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieShell" />
       <module name="July2019" />
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.DiamondShape" />
         <item itemvalue="Application.RetrieveData2" />
         <item itemvalue="Application.RetrieveData" />
         <item itemvalue="Application.RunMovieShell" />
-        <item itemvalue="Application.RunMovieNames" />
       </list>
     </recent_temporary>
   </component>
