@@ -16,12 +16,12 @@ try {
 
 
     connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/netflix?serverTimezone=UTC",
-            "root", "rinika1527");
+            "root", "");
 
     statement = connect.createStatement();
 
     String query = "insert into movie (id , title, release_year, genre, mpaa_rating) " +
-            "values (18, 'Captain Marvel', 2019, 'Sci-Fi','PG');";
+            "values (4, 'Captain Marvel', 2019, 'Sci-Fi','PG');";
 
     statement.execute(query);
     } catch ( Exception e ){

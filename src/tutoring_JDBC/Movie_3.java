@@ -11,10 +11,10 @@ public class Movie_3 {
 try {
 
         connection= DriverManager.getConnection("jdbc:mysql://localhost:3306/netflix?serverTimezone=UTC",
-                "root", "rinika1527");
+                "root", "");
         statement=connection.createStatement();
         String query="Insert into movie(id,title,release_year,genre,mpaa_rating)" +
-                "values(17, 'How to Train Your Dragon: The Hidden World',2019,'Animated','PG-13');";
+                "values(3, 'How to Train Your Dragon: The Hidden World',2019,'Animated','PG-13');";
         statement.execute(query);
 
     }catch (Exception ex){

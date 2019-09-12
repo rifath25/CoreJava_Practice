@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedLoop/Practice_NestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedLoop/Practice_NestedLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_NestedLoop/Practice_NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_NestedLoop/Practice_NestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/July2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/META-INF/July2019.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/Movie_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieNames.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieNames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieShell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC/RunMovieShell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/Movie_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/Movie_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/Movie_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/Movie_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/Movie_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/Movie_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieShell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC/RunMovieShell.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +45,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/testng-6.8.5.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,13 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice_NestedLoop">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_UnitTesting.Calculator" />
+  <component name="RunManager" selected="Application.RunMovieShell">
+    <configuration name="Movie_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.Movie_4" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_UnitTesting.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_fibonaccoSeries.FibonacciNumber" />
+    <configuration name="RunMovieCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieCollection" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_fibonaccoSeries.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_NestedLoop.Practice_NestedLoop" />
+    <configuration name="RunMovieList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieList" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_NestedLoop.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_ReverseInteger.TestReverseInteger" />
+    <configuration name="RunMovieNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieNames" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_ReverseInteger.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_ReverseString.UseReverseString" />
+    <configuration name="RunMovieShell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_JDBC.RunMovieShell" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_ReverseString.*" />
+          <option name="PATTERN" value="tutoring_JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice_NestedLoop" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.FibonacciNumber" />
-        <item itemvalue="Application.TestReverseInteger" />
-        <item itemvalue="Application.UseReverseString" />
+        <item itemvalue="Application.RunMovieShell" />
+        <item itemvalue="Application.RunMovieNames" />
+        <item itemvalue="Application.RunMovieList" />
+        <item itemvalue="Application.RunMovieCollection" />
+        <item itemvalue="Application.Movie_4" />
       </list>
     </recent_temporary>
   </component>
@@ -168,14 +185,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/July2019$Movie.ic" NAME="Movie Coverage Results" MODIFIED="1567444835752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>tutoring_JDBC.*</FILTER>
+    <SUITE FILE_PATH="coverage/July2019$TestBehavior.ic" NAME="TestBehavior Coverage Results" MODIFIED="1566427720978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tutoring_Polymorphism.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/July2019$TestPhone.ic" NAME="TestPhone Coverage Results" MODIFIED="1566357870370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>tutoring.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/July2019$TestBehavior.ic" NAME="TestBehavior Coverage Results" MODIFIED="1566427720978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>tutoring_Polymorphism.*</FILTER>
+    <SUITE FILE_PATH="coverage/July2019$Movie.ic" NAME="Movie Coverage Results" MODIFIED="1567444835752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tutoring_JDBC.*</FILTER>
     </SUITE>
   </component>
 </project>

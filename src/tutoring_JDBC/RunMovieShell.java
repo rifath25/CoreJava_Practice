@@ -10,7 +10,7 @@ public class RunMovieShell {
     public static void main(String[] args) {
         String url= "jdbc:mysql://localhost:3306/netflix?serverTimezone=UTC";
         String userName= "root";
-        String password= "rinika1527";
+        String password= "";
 
         Connection connection= null;
         Statement statement= null;

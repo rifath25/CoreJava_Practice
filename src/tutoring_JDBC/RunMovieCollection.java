@@ -11,17 +11,17 @@ public class RunMovieCollection {
 
         String url= "jdbc:mysql://localhost:3306/netflix?serverTimezone=UTC";
         String userName="root";
-        String password= "rinika1527";
+        String password= "";
 
         Connection connection= null;
         Statement statement= null;
 
        MovieCollection rampage= new MovieCollection(
-               11,"Rampage", 2018,"Sci-fi/Action","PG-13");
+               5,"Rampage", 2018,"Sci-fi/Action","PG-13");
        MovieCollection jurassicWorld= new MovieCollection(
-                12,"Jurassic World: Fallen Kingdom", 2018,"Sci-fi/Action","PG-13");
+                6,"Jurassic World: Fallen Kingdom", 2018,"Sci-fi/Action","PG-13");
         MovieCollection missionImpossible= new MovieCollection(
-                13,"Mission: Impossible – Fallout", 2018,"Thriller/Action","PG-13");
+                7,"Mission: Impossible – Fallout", 2018,"Thriller/Action","PG-13");
 
 
         ArrayList<MovieCollection>movieCollections= new ArrayList<>();

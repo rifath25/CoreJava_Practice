@@ -14,9 +14,9 @@ public class RunMovieNames {
         Statement statement = null;
 
 
-        MovieNames sanju = new MovieNames (22, "Sanju", 2018, "Drama", "R");
-        MovieNames harrypotter = new MovieNames (23, "Harry Potter", 2001, "Fantasy", "PG");
-        MovieNames padmavaat = new MovieNames (24, "Padmaavaat", 2019, "Historical", "PG");
+        MovieNames sanju = new MovieNames (11, "Sanju", 2018, "Drama", "R");
+        MovieNames harrypotter = new MovieNames (12, "Harry Potter", 2001, "Fantasy", "PG");
+        MovieNames padmavaat = new MovieNames (13, "Padmaavaat", 2019, "Historical", "PG");
 
         ArrayList<MovieNames> ar = new ArrayList<>();
          ar.add(sanju);
@@ -26,7 +26,7 @@ public class RunMovieNames {
          try {
 
              connect= DriverManager.getConnection("jdbc:mysql://localhost:3306/netflix?serverTimezone=UTC",
-                     "root","rinika1527");
+                     "root","");
              statement = connect.createStatement();
 
              for ( MovieNames mv : ar) {
