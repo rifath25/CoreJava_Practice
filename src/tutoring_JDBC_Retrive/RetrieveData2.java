@@ -20,16 +20,16 @@ public class RetrieveData2 {
             preparedStatement =connection.prepareStatement("SELECT * FROM movie");
             resultSet=preparedStatement.executeQuery();
 
-            ArrayList<String>array=new ArrayList<>();
-            while (resultSet.next()){
-               array.add(resultSet.getString("title"));
 
-//                String value1= resultSet.getString("id");
-//                String value2= resultSet.getString("title");
-//                String value3=resultSet.getString("release_year");
-//                String value4=resultSet.getString("genre");
-//                String value5=resultSet.getString("mpaa_rating");
-//                System.out.println(value1+"----> "+value2+"----> "+value3+"----> "+value4+"----> "+value5);
+            while (resultSet.next()){
+
+
+                String value1= resultSet.getString("id");
+                String value2= resultSet.getString("title");
+                String value3=resultSet.getString("release_year");
+                String value4=resultSet.getString("genre");
+                String value5=resultSet.getString("mpaa_rating");
+                System.out.println(value1+"----> "+value2+"----> "+value3+"----> "+value4+"----> "+value5);
             }
         }catch (Exception e){
             e.printStackTrace();
