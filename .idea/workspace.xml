@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a4bcac-59be-40a5-8798-e1f62a94c17b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_Map/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_Palindrome/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_RemoveJunk/ReplaceString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_ReverseInteger/ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC_Retrive/RetrieveData2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_JDBC_Retrive/RetrieveData2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedLoop/DiamondShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/July2019/tutoring_NestedLoop/DiamondShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_JDBC_Retrive/RetrieveData2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_JDBC_Retrive/RetrieveData2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_NestedLoop/DiamondShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_NestedLoop/DiamondShape.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +52,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeInteger">
+  <component name="RunManager" selected="Application.LargestWord">
     <configuration name="Country" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_Map.Country" />
       <module name="July2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tutoring_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_LargestWord.LargestWord" />
+      <module name="July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_LargestWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_ReverseString.R1" />
-      <module name="July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_ReverseString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestWord" />
         <item itemvalue="Application.PalindromeInteger" />
         <item itemvalue="Application.PalindromeString" />
         <item itemvalue="Application.Movie" />
         <item itemvalue="Application.Country" />
-        <item itemvalue="Application.R1" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +174,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/July2019$Movie.ic" NAME="Movie Coverage Results" MODIFIED="1567444835752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>tutoring_JDBC.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/July2019_Practice$LargestWord.ic" NAME="LargestWord Coverage Results" MODIFIED="1568419638452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tutoring_LargestWord.*</FILTER>
     </SUITE>
   </component>
 </project>
